@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f331a4c13aa9ac0419f62229a3222114
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stickerBool: {fileID: 11400000, guid: d1d4633997dac814097f2b24003f070f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

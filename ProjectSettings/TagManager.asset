@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Home
+  - Coin
+  - home
+  - spike
+  - Peppy
+  - Checkpoint
+  - Water
+  - Moveable
+  - Enemy
+  - Projectile
+  - Target
+  - Sticker1
+  - Sticker2
+  - Sticker3
+  - Audio
+  - Timer
+  - Sticker4
+  - Sticker5
+  - Sticker6
+  - Sticker7
+  - Sticker8
+  - Sticker9
+  - Sticker10
+  - Sticker11
+  - Sticker12
+  - Sticker13
+  - Sticker14
+  - Sticker15
+  - Sticker16
+  - Sticker17
+  - Sticker18
+  - Sticker19
+  - Sticker20
+  - Sticker21
+  - Sticker22
+  - Sticker23
+  - Sticker24
+  - Sticker25
+  - Sticker26
+  - Sticker27
+  - Sticker28
+  - Sticker29
+  - Sticker30
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
