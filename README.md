@@ -7,3 +7,4 @@ Pizza Panic is a 3D platformer game created using Unity/C# and was created for m
 - Silly cartoon artstyle
 - NPC AI behaviour using Unitys built in pathfinding package
 
+<img src="screenshots/Screenshot 2026-05-25 194648.png" width="600">
